@@ -13,7 +13,8 @@ const iosWithoutNetworkDbName = 'ios_market_names_without_network_id.json';
 ///
 ///Android settings
 ///
-const androidNamesLink = '';
+const androidNamesLink =
+    'https://raw.githubusercontent.com/MrOlolo/android_market_names_db/master/android_market_names.db';
 
 const androidDbName = 'android_market_names.db';
 
