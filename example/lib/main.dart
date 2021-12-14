@@ -42,7 +42,9 @@ class _MyHomePageState extends State<MyHomePage> {
   asyncInit() async {
     ///E.g. Get marketName for another platform & device
     print(await DeviceMarketName()
-        .getMarketName('iPhone13,2', platform: TargetPlatform.iOS));
+        .getMarketName('iPhone14,2', platform: TargetPlatform.iOS));
+    print(await DeviceMarketName()
+        .getMarketName('SM-F900U1', platform: TargetPlatform.android));
 
     ///
     ///E.g. Get marketName for current device
