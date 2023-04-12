@@ -2,7 +2,6 @@ library device_market_name;
 
 import 'package:device_market_name/src/database/android_db_provider.dart';
 import 'package:device_market_name/src/database/ios_db_provider.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 
 /// DeviceMarketName
