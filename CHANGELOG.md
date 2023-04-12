@@ -1,3 +1,7 @@
+## 0.0.4
+* update databases
+* update dependencies
+
 ## 0.0.3
 * update databases
 * update example
