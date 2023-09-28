@@ -1,19 +1,19 @@
 name: device_market_name
 description: Small package which return market name for model code e.g. SM-G970F=>Galaxy s10e, iPhone13,2=>iPhone 12. Works for android with gms & iOS devices
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/MrOlolo/device_market_name
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  sqflite: ^2.2.6
-  http: ^0.13.5
-  path_provider: ^2.0.14
-  path: ^1.8.2
+  sqflite: ^2.3.0
+  http: ^1.1.0
+  path_provider: ^2.1.1
+  path: ^1.8.3
 
 
 
