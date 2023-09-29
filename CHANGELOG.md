@@ -1,3 +1,6 @@
+## 0.0.6
+* fix ios names
+
 ## 0.0.5
 * update databases
 * update dependencies
